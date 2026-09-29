@@ -1,0 +1,37 @@
+[
+    {
+        "name": "saurabh singh",
+        "subject": "Python",
+        "score": 5,
+        "percentage": 100.0,
+        "grade": "A+"
+    },
+    {
+        "name": "saurabh singh",
+        "subject": "Python",
+        "score": 3,
+        "percentage": 60.0,
+        "grade": "C"
+    },
+    {
+        "name": "saurabh singh",
+        "subject": "Mathematics",
+        "score": 5,
+        "percentage": 100.0,
+        "grade": "A+"
+    },
+    {
+        "name": "Saurabh singh",
+        "subject": "Python",
+        "score": 5,
+        "percentage": 100.0,
+        "grade": "A+"
+    },
+    {
+        "name": "Saurabh singh",
+        "subject": "Python",
+        "score": 5,
+        "percentage": 100.0,
+        "grade": "A+"
+    }
+]
